@@ -1,2 +1,3 @@
 # Elections
-This netlogo project has the goal of simulating the political preferences of people according to some constratints that can influence their decisions.  
+This netlogo project has the goal of simulating the electoral consensus within a population according to some constraints that can influence their decisions.  
+Having established 5 parties (esx, csx, cc, cdx, edx), they can run independently or, if they verify that it suits them, coalesce with politically close parties (e.g., csx can ally with esx or cc, but not with edx). According to defined parameters people can influence each other, just as there can also be people who do not find a suitable political fit and abstain. Also, depending on whether or not the people are satisfied with the winning party, popular consensus adjusts and influences subsequent elections.
